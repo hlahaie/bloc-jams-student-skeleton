@@ -7,12 +7,12 @@ body {
   min-height: 100%;
   background: -webkit-radial-gradient(#2b1339, #380c77);
   background: radial-gradient(#2b1339, #380c77); 
-    padding-bottom: 150px;
+  padding-bottom: 150px;
 }
 
 body.landing {
   background: #5b5579;
-    padding-bottom: 0;}
+  padding-bottom: 0;}
 
 .hero-content {
   background: #2f1d57;
